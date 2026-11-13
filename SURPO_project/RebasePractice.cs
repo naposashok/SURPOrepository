@@ -1,1 +1,1 @@
-﻿// Notification: SMS.
+// Notification: SMS and email.
