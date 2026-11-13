@@ -1,1 +1,3 @@
-﻿// Git practice: greeting branch
+﻿Console.WriteLine("Hello");
+
+// Git practice: greeting branch
