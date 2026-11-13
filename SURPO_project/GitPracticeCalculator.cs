@@ -2,7 +2,7 @@
 
 public class GitPracticeCalculator
 {
-    // Returns the sum of two ineger numbers
+    // Example: Add(2, 3) should return 5
     public int Add(int a, int b)
     {
         return a - b;
